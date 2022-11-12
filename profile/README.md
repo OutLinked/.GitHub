@@ -14,6 +14,7 @@
 
 <br>
 
+[![Button Sections]][Sections]  
 [![Button Templates]][Templates]
 
 <br>
@@ -39,6 +40,7 @@
 <!---------------------------------------------------------------->
 
 [Templates]: https://github.com/OutLinked/Templates
+[Sections]: https://github.com/OutLinked/Sections
 
 [Makeover]: https://www.linkedin-makeover.com/linkedin-text-formatter/
 [LingoJam]: https://lingojam.com/FullwidthText
@@ -55,3 +57,4 @@
 <!---------------------------------[ Buttons ]--------------------------------->
 
 [Button Templates]: https://img.shields.io/badge/Templates-A5915F?style=for-the-badge&logoColor=white&logo=AzureArtifacts
+[Button Sections]: https://img.shields.io/badge/Sections-3394D7?style=for-the-badge&logoColor=white&logo=Buffer
