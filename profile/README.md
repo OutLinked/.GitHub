@@ -25,7 +25,7 @@
 
 <br>
 
-[<kbd> <br> **LingoJam** - Text converter that replaces normal characters with stylized unicode. <br> </kbd>][LingoJam]
+[<kbd> <br> **LingoJam** - Text converter that stylizes the text you input. <br> </kbd>][LingoJam]
 
 <br>
 
